@@ -1,10 +1,6 @@
 # Google-Codejam-2017-Qualification-Round-in-Python
-code in Python
 
-<h1>These are my solutions to the coding problems:</h1>
-
-<b>Problem 1:</b> codejam2017_1.py
-
-<b>Problem 2:</b> codejam2017_2.py
-
-Stay tune for problem 3 and 4.
+**Problem 1:** `codejam2017_1.py`  
+**Problem 2:** `codejam2017_2.py`  
+**Problem 3:** `codejam2017_3.py`  _(assisted with ChatGPT)_  
+**Problem 4:** `codejam2017_4.py` _(assisted with ChatGPT)_
